@@ -1,4 +1,4 @@
-#include <cstdio>
+#include <iostream>
 
 #ifndef BOARD_HPP_
 #define BOARD_HPP_
